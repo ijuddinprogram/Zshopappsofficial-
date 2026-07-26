@@ -1,0 +1,516 @@
+{
+  "source": "index_update_hubungi_owner_music_playlist - Salin.html",
+  "entry_point": "index.html",
+  "audio_tracks": [
+    {
+      "key": "duvet",
+      "path": "assets/audio/duvet.ogg",
+      "original_bytes": 3393871,
+      "optimized_bytes": 1264156,
+      "duration_seconds": 212.051
+    },
+    {
+      "key": "kicau",
+      "path": "assets/audio/kicau.ogg",
+      "original_bytes": 3584878,
+      "optimized_bytes": 1304363,
+      "duration_seconds": 224.006
+    },
+    {
+      "key": "die-with-a-smile",
+      "path": "assets/audio/die-with-a-smile.ogg",
+      "original_bytes": 4910725,
+      "optimized_bytes": 1524524,
+      "duration_seconds": 252.303
+    },
+    {
+      "key": "lesung-pipi",
+      "path": "assets/audio/lesung-pipi.ogg",
+      "original_bytes": 3923024,
+      "optimized_bytes": 1411143,
+      "duration_seconds": 224.044
+    },
+    {
+      "key": "garam-dan-madu",
+      "path": "assets/audio/garam-dan-madu.ogg",
+      "original_bytes": 3250786,
+      "optimized_bytes": 1215492,
+      "duration_seconds": 183.049
+    },
+    {
+      "key": "beauty-and-a-beat",
+      "path": "assets/audio/beauty-and-a-beat.ogg",
+      "original_bytes": 4142076,
+      "optimized_bytes": 1406963,
+      "duration_seconds": 228.061
+    }
+  ],
+  "video": {
+    "path": "assets/video/opening.mp4",
+    "original_bytes": 3019262,
+    "optimized_bytes": 285937,
+    "duration_seconds": 10.1
+  },
+  "images": {
+    "occurrences_in_original_html": 57,
+    "unique_local_assets": 57,
+    "files": [
+      {
+        "path": "assets/images/1b7cca4a9ffa.png",
+        "mime": "image/png",
+        "original_bytes": 2743,
+        "optimized_bytes": 2743,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/dbda3f8849d7.webp",
+        "mime": "image/webp",
+        "original_bytes": 1212,
+        "optimized_bytes": 1212,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/5f1713f4d565.webp",
+        "mime": "image/webp",
+        "original_bytes": 68808,
+        "optimized_bytes": 68808,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/8770e3081a7d.webp",
+        "mime": "image/webp",
+        "original_bytes": 78918,
+        "optimized_bytes": 78918,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/33c1a29b9412.png",
+        "mime": "image/png",
+        "original_bytes": 10686,
+        "optimized_bytes": 10686,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/8937e6faee13.webp",
+        "mime": "image/webp",
+        "original_bytes": 93814,
+        "optimized_bytes": 93814,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/25fae6263526.webp",
+        "mime": "image/webp",
+        "original_bytes": 13488,
+        "optimized_bytes": 13488,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/6c1b3a0b82d6.jpg",
+        "mime": "image/jpeg",
+        "original_bytes": 54933,
+        "optimized_bytes": 54933,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/941d70abf2bd.jpg",
+        "mime": "image/jpeg",
+        "original_bytes": 8800,
+        "optimized_bytes": 8800,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/f5829c9eb4e1.jpg",
+        "mime": "image/jpeg",
+        "original_bytes": 20684,
+        "optimized_bytes": 20684,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/799ec79334b4.webp",
+        "mime": "image/webp",
+        "original_bytes": 7526,
+        "optimized_bytes": 7526,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/173120ec42b6.webp",
+        "mime": "image/webp",
+        "original_bytes": 316,
+        "optimized_bytes": 316,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/d26b753d5f5a.webp",
+        "mime": "image/webp",
+        "original_bytes": 876,
+        "optimized_bytes": 876,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/b6c5e85ada76.webp",
+        "mime": "image/webp",
+        "original_bytes": 502,
+        "optimized_bytes": 502,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/aaed1f8cd62a.webp",
+        "mime": "image/webp",
+        "original_bytes": 552,
+        "optimized_bytes": 552,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/2ce787c481f0.webp",
+        "mime": "image/webp",
+        "original_bytes": 676,
+        "optimized_bytes": 676,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/fad29d99a057.webp",
+        "mime": "image/webp",
+        "original_bytes": 500,
+        "optimized_bytes": 500,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/56dd4558bbf6.webp",
+        "mime": "image/webp",
+        "original_bytes": 1516,
+        "optimized_bytes": 1516,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/aa3a97298e2e.webp",
+        "mime": "image/webp",
+        "original_bytes": 4842,
+        "optimized_bytes": 4842,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/fa01ffa13987.webp",
+        "mime": "image/webp",
+        "original_bytes": 4230,
+        "optimized_bytes": 4230,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/23e8445af1a1.webp",
+        "mime": "image/webp",
+        "original_bytes": 2182,
+        "optimized_bytes": 2182,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/18ccc887ca5a.webp",
+        "mime": "image/webp",
+        "original_bytes": 4706,
+        "optimized_bytes": 4706,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/a0d9c8c3892d.webp",
+        "mime": "image/webp",
+        "original_bytes": 2756,
+        "optimized_bytes": 2756,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/05cb03df37ed.webp",
+        "mime": "image/webp",
+        "original_bytes": 6350,
+        "optimized_bytes": 6350,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/6b06e2516f5e.webp",
+        "mime": "image/webp",
+        "original_bytes": 4886,
+        "optimized_bytes": 4886,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/bc1092737ac5.webp",
+        "mime": "image/webp",
+        "original_bytes": 5256,
+        "optimized_bytes": 5256,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/053e8d91f989.jpg",
+        "mime": "image/jpeg",
+        "original_bytes": 16590,
+        "optimized_bytes": 16590,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/6ef3b243516d.jpg",
+        "mime": "image/jpeg",
+        "original_bytes": 12968,
+        "optimized_bytes": 12968,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/a7cae9d4282b.jpg",
+        "mime": "image/jpeg",
+        "original_bytes": 17900,
+        "optimized_bytes": 17900,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/ed62534fd5c8.webp",
+        "mime": "image/webp",
+        "original_bytes": 10420,
+        "optimized_bytes": 10420,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/d6648a65c6e6.webp",
+        "mime": "image/webp",
+        "original_bytes": 7638,
+        "optimized_bytes": 7638,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/de1df0fa8136.webp",
+        "mime": "image/webp",
+        "original_bytes": 6130,
+        "optimized_bytes": 6130,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/b4d2525fceec.webp",
+        "mime": "image/webp",
+        "original_bytes": 6840,
+        "optimized_bytes": 6840,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/7d00a8bbb2ce.webp",
+        "mime": "image/webp",
+        "original_bytes": 5698,
+        "optimized_bytes": 5698,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/b0224af9e251.webp",
+        "mime": "image/webp",
+        "original_bytes": 7294,
+        "optimized_bytes": 7294,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/bf7f6ef5b4c0.webp",
+        "mime": "image/webp",
+        "original_bytes": 4186,
+        "optimized_bytes": 4186,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/d89ba3ce718c.webp",
+        "mime": "image/webp",
+        "original_bytes": 4930,
+        "optimized_bytes": 4930,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/9a31f5a27be1.webp",
+        "mime": "image/webp",
+        "original_bytes": 9484,
+        "optimized_bytes": 9484,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/1510f0905b5f.webp",
+        "mime": "image/webp",
+        "original_bytes": 7416,
+        "optimized_bytes": 7416,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/988588bca830.webp",
+        "mime": "image/webp",
+        "original_bytes": 4830,
+        "optimized_bytes": 4830,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/1858a6f3d1bf.webp",
+        "mime": "image/webp",
+        "original_bytes": 6884,
+        "optimized_bytes": 6884,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/1db49167ff7c.webp",
+        "mime": "image/webp",
+        "original_bytes": 8580,
+        "optimized_bytes": 8580,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/570515394c5d.webp",
+        "mime": "image/webp",
+        "original_bytes": 5578,
+        "optimized_bytes": 5578,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/e142f392ded8.webp",
+        "mime": "image/webp",
+        "original_bytes": 8340,
+        "optimized_bytes": 8340,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/c5913c10e536.webp",
+        "mime": "image/webp",
+        "original_bytes": 7454,
+        "optimized_bytes": 7454,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/5cd054a2702b.webp",
+        "mime": "image/webp",
+        "original_bytes": 7056,
+        "optimized_bytes": 7056,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/6964e8e92aba.webp",
+        "mime": "image/webp",
+        "original_bytes": 8638,
+        "optimized_bytes": 8638,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/da904b6a44d0.webp",
+        "mime": "image/webp",
+        "original_bytes": 3834,
+        "optimized_bytes": 3834,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/34e69866700a.webp",
+        "mime": "image/webp",
+        "original_bytes": 4930,
+        "optimized_bytes": 4930,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/230fab59b970.webp",
+        "mime": "image/webp",
+        "original_bytes": 9190,
+        "optimized_bytes": 9190,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/40e8b8d32897.webp",
+        "mime": "image/webp",
+        "original_bytes": 5878,
+        "optimized_bytes": 5878,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/f031569eee27.jpg",
+        "mime": "image/jpeg",
+        "original_bytes": 77736,
+        "optimized_bytes": 77736,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/563cf6d9c4a6.webp",
+        "mime": "image/png",
+        "original_bytes": 925780,
+        "optimized_bytes": 82088,
+        "optimized": true,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/968841fd3359.webp",
+        "mime": "image/png",
+        "original_bytes": 872197,
+        "optimized_bytes": 79302,
+        "optimized": true,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/0776e7381bc4.webp",
+        "mime": "image/png",
+        "original_bytes": 991480,
+        "optimized_bytes": 86210,
+        "optimized": true,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/dbca5391b0db.jpg",
+        "mime": "image/jpeg",
+        "original_bytes": 342399,
+        "optimized_bytes": 342399,
+        "optimized": false,
+        "occurrences": 1
+      },
+      {
+        "path": "assets/images/eb8278f2f602.webp",
+        "mime": "image/webp",
+        "original_bytes": 79570,
+        "optimized_bytes": 79570,
+        "optimized": false,
+        "occurrences": 1
+      }
+    ]
+  }
+}
